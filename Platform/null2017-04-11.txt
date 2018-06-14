@@ -1,0 +1,12 @@
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(0): com.mysql.jdbc.Connection@4590c9c3<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(1): com.mysql.jdbc.Connection@4de8b406<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(2): com.mysql.jdbc.Connection@402f32ff<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(3): com.mysql.jdbc.Connection@548b7f67<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(4): com.mysql.jdbc.Connection@5f375618<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(5): com.mysql.jdbc.Connection@4439f31e<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(6): com.mysql.jdbc.Connection@56f4468b<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(7): com.mysql.jdbc.Connection@4f933fd1<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(8): com.mysql.jdbc.Connection@2a2d45ba<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection(9): com.mysql.jdbc.Connection@28feb3fa<DataSourcePool.java: Line 46>
+16:23:54 [DEBUG]	 null 	 init: MSSQL Connection's size in Pool: 10<DataSourcePool.java: Line 53>
+16:23:54 [DEBUG]	 null 	 MSSQL Connection's size in Pool: 10<DataSourcePool.java: Line 90>
